@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+    color: #0f141e;
+    font-size:16px;
+font-weight: normal;
+font-family: "Roboto" , sans-serif
+
+}
+h1{color: rgb(87, 6, 6);}
+.foto {
+    width: 200px;
+    border-radius:28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.99);
+} 
+
+.info p {
+    color:saddlebrown
+}
